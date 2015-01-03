@@ -1,0 +1,10 @@
+name:Blocky
+description:Hi Im Blocky! I will help you.
+version:0.1
+main:org.bukkit.Blocky.Blocky
+commands:
+    blocky:
+        description: Im a help bot!
+        usage: /blocky
+        permission: Member
+        permission-message: Blocky is inavaible right now!
